@@ -1,0 +1,36 @@
+
+
+main{
+
+    background-color: white;
+}
+
+h3{
+    color:white;
+}
+
+h5 a{
+    color: white;
+
+}
+p a{
+    color: white;
+}
+.footer{
+    background-color: rgb(59, 61, 65);
+    color: white;
+    float: bottom;
+    margin-bottom: 1px;
+}
+#body-text{
+    color: black;
+}
+#out-of-hour{
+    padding-top: 20px;
+    color: darkred;
+}
+.nav-item{
+    color: white;
+
+}
+

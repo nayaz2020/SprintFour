@@ -1,0 +1,5 @@
+[02-Dec-2020 19:56:18 UTC] PHP Warning:  include(dbcreds.php): failed to open stream: No such file or directory in /home4/grcacgre/public_html/SprintThree/login/page1.php on line 27
+[02-Dec-2020 19:56:18 UTC] PHP Warning:  include(): Failed opening 'dbcreds.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/grcacgre/public_html/SprintThree/login/page1.php on line 27
+[02-Dec-2020 19:56:18 UTC] PHP Notice:  Undefined variable: cnxn in /home4/grcacgre/public_html/SprintThree/login/page1.php on line 84
+[02-Dec-2020 19:56:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/grcacgre/public_html/SprintThree/login/page1.php on line 84
+[02-Dec-2020 19:56:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/grcacgre/public_html/SprintThree/login/page1.php on line 86

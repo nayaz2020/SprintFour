@@ -1,0 +1,56 @@
+
+/* form page fields style attributes */
+main{
+    margin: 0 auto;
+    min-height: calc(100vh - 250px );
+}
+h3{
+    color:white;
+}
+
+p a{
+    color: white;
+}
+body {
+   
+
+    background-color: white;
+}
+
+#jumbotron{
+    background-color: rgb(59, 61, 65);
+    color:white;
+}
+#colors{
+    background-color: rgb(59, 61, 65);
+    color:white;
+}
+
+#content{
+  background-color:white;
+}
+
+legend {
+
+    font-variant: small-caps;
+}
+
+.coloring{
+    font-size: small;
+    color: green !important;
+}
+
+.pay{
+  width: 25%;
+  height: 25%;
+}
+.redirect{
+  width: 25%;
+  height: 15%;
+}
+#body-text{
+    margin-bottom: 55px;
+}
+#login-section{
+    margin-top: 100px;
+}
